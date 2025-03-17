@@ -1,1 +1,2 @@
-# machine-learning
+# Machine Learning
+This project involves analyzing various datasets using machine learning techniques. The methodology includes unsupervised learning to segment customers (using PCA and clustering), regression to predict health insurance charges (using Linear Regression, Random Forest, and CART), and classification to predict obesity levels (using Random Forest, KNN, and Decision Tree). Each task involves preprocessing, model application, and evaluation using metrics like R², MSE, accuracy, precision, and recall, ensuring a comprehensive analysis of the datasets.
